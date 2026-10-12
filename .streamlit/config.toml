@@ -1,0 +1,3 @@
+[server]
+# MB; default is 200. Set to 1024 for 1 GB uploads.
+maxUploadSize = 1024
